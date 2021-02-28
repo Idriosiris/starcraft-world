@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>pattern-craft-visitor</artifactId>
+    <artifactId>starcraft-world</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>pattern-craft-visitor</name>
+    <name>Starcraft World</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>11</java.version>

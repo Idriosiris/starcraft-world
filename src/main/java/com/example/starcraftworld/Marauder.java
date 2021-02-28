@@ -1,4 +1,4 @@
-package com.example.patterncraftvisitor;
+package com.example.starcraftworld;
 
 public class Marauder implements Visitable {
 

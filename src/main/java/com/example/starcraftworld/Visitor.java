@@ -1,4 +1,4 @@
-package com.example.patterncraftvisitor;
+package com.example.starcraftworld;
 
 public interface Visitor {
     void visit(Marine marine);
